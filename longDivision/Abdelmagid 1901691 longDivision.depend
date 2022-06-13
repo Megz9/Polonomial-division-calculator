@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625781908 source:d:\cse131 codeblocks c projects\project cse131\abdelmagid 1901691 longdivision\main.c
+	"stdio.h"
+	"stdlib.h"
+	"conio.h"
+
